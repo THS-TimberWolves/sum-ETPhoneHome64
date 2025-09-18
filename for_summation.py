@@ -1,4 +1,4 @@
-added=int(input("Enter a Number: "))
+added=int(input())
 total=0
 for x in range(added+1):
     current_num=x
