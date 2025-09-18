@@ -1,4 +1,4 @@
-added=int(input("Enter a Number: "))
+added=int(input())
 looper=1
 total=0
 while looper<=added:
